@@ -1,0 +1,11 @@
+.tt-header-1 .logo {
+  display: inline-block;
+  height: 70px;
+  margin-left: 50px;
+  margin-top: -5px;
+  line-height: 62px;
+}
+
+.client-photo {
+    width: 80%;
+}

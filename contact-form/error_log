@@ -1,0 +1,15 @@
+[27-Feb-2017 07:42:21 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 14
+[27-Feb-2017 07:42:21 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 17
+[27-Feb-2017 07:42:21 UTC] PHP Notice:  Undefined index: message in /home/macalogicweb/public_html/contact-form/send.php on line 21
+[27-Feb-2017 07:42:21 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 29
+[27-Feb-2017 07:42:21 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 29
+[04-Mar-2017 15:24:18 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 14
+[04-Mar-2017 15:24:18 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 17
+[04-Mar-2017 15:24:18 UTC] PHP Notice:  Undefined index: message in /home/macalogicweb/public_html/contact-form/send.php on line 21
+[04-Mar-2017 15:24:18 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 29
+[04-Mar-2017 15:24:18 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 29
+[02-May-2017 12:37:27 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 14
+[02-May-2017 12:37:27 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 17
+[02-May-2017 12:37:27 UTC] PHP Notice:  Undefined index: message in /home/macalogicweb/public_html/contact-form/send.php on line 21
+[02-May-2017 12:37:27 UTC] PHP Notice:  Undefined index: name in /home/macalogicweb/public_html/contact-form/send.php on line 29
+[02-May-2017 12:37:27 UTC] PHP Notice:  Undefined index: email in /home/macalogicweb/public_html/contact-form/send.php on line 29
